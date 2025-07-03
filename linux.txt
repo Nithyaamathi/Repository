@@ -1,4 +1,2 @@
 I am editing this from plan branch
 this is a linux learning document
-
-This is 2nd update from plan branch
